@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMap2</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="countries_array">
+        <item>Ukraine</item>
+        <item>Madagaskar</item>
+        <item>India</item>
+        <item>Japan</item>
+    </string-array>
+</resources>
